@@ -15,4 +15,10 @@ All contributions **must**:
 - Be loyal to the contents of the original paper, with absolutely no alterations,
 - Be submited either in PDF (.pdf) or Markdown (.md) and no other extensions will be accepted.
 
+*Check if the translation to your language has been done already before submitting yours.*
+
+# Translators:
+
+- All translators will be permanently listed here.
+
 **Thank you to all contributors!**
