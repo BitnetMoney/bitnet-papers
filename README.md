@@ -15,4 +15,4 @@ All contributions **must**:
 - Be loyal to the contents of the original paper, with absolutely no alterations,
 - Be submited either in PDF (.pdf) or Markdown (.md) and no other extensions will be accepted.
 
-# Thank you to all contributors!
+**Thank you to all contributors!**
