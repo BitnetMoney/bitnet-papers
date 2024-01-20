@@ -1,6 +1,6 @@
-# Bitnet Paper
+# Bitnet Papers
 
-Archive with Bitnet's launch paper. Translations are welcome - please follow the contribution guidelines below.
+This repository is an archive with Bitnet's papers. Translations are welcome - please follow the contribution guidelines below.
 
 # How to contribute?
 
@@ -19,6 +19,7 @@ All contributions **must**:
 
 # Translators:
 
-- All translators will be permanently listed here.
+- ykris45 (Bahasa Indonesia)
+- xGozz (French)
 
 **Thank you to all contributors!**
